@@ -1,2 +1,2 @@
 # YourPortolio
-Lo que quieras que salga en un explorador como Chrome, describiendo tu portolio o lo que te apetezca.
+Este es mi portolio (Descripción del repositorio que usas para albergar tu portfolio)
