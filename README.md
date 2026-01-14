@@ -1,2 +1,2 @@
 # YourPortolio
-Este es mi portolio (Descripción del repositorio que usas para albergar tu portfolio)
+Este es mi portfolio (Descripción del repositorio que usas para albergar tu portfolio)
